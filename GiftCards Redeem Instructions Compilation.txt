@@ -1,3 +1,32 @@
+&#8220; -> " (opening)
+&#8221; -> " (closing)
+&#34; -> "(universal)
+&#10; -> 
+&#160; ->  (space)
+&#8482; -> TM
+&#174; - (R)
+&#8217; - '
+&#8211; - -
+
+
+FES - Frankel's Excel Sheet
+
+
+
+4 - 403 - Doesn't show a redeem website ... Since it's still the same apple, should I use the same redeem instructions for 3 .. See also 36
+
+7 - CBS All Access - Doesn't exist in the json file - Please send me that link for accessing them 
+Same as 11, 15, 19, 88
+
+38 - Mobile Legends - it's there but the description is an empty string , 61, 74 - 80, 89
+
+
+
+Search for "ardor" in the verbose for brands 3 and 4 and ask if to replace it with something else
+
+
+
+
 
 
 
